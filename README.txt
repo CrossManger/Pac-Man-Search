@@ -1,3 +1,6 @@
+Đồ án môn Cơ sở trí tuệ nhân tạo - HCMUS
+
+
 HOW TO RUN THE SOURCE CODE: PAC-MAN GAME
 RUNNING WITH VISUAL STUDIO CODE
 Step 1: Install Visual Studio Code
