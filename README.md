@@ -1,8 +1,8 @@
-Đồ án môn Cơ sở trí tuệ nhân tạo (Introduction to AI) - HCMUS
+Project Introduction to AI - HCMUS
 
-Giảng viên: Nguyễn Tiến Huy, Nguyễn Thanh Tình, Nguyễn Trần Duy Minh
+Lecturer: Nguyễn Tiến Huy, Nguyễn Thanh Tình, Nguyễn Trần Duy Minh
 
-Giảng viên: Lê Viết Long, Phạm Tuấn Sơn
+Video demo: https://www.youtube.com/watch?v=UsxQIAHDMKQ
 
 HOW TO RUN THE SOURCE CODE: PAC-MAN GAME
 RUNNING WITH VISUAL STUDIO CODE
