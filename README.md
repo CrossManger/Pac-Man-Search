@@ -6,9 +6,11 @@ Video demo: https://www.youtube.com/watch?v=UsxQIAHDMKQ
 
 HOW TO RUN THE SOURCE CODE: PAC-MAN GAME
 RUNNING WITH VISUAL STUDIO CODE
+
 Step 1: Install Visual Studio Code
 
 You must install Visual Studio Code. You can follow this link: https://code.visualstudio.com/download
+
 Step 2: Install Python
 
     For Windows: Download and install Python from https://www.python.org/downloads/.
