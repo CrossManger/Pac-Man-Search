@@ -2,7 +2,7 @@ Project Introduction to AI - HCMUS
 
 Lecturer: Nguyễn Tiến Huy, Nguyễn Thanh Tình, Nguyễn Trần Duy Minh
 
-Video demo: https://www.youtube.com/watch?v=UsxQIAHDMKQ
+Video demo: https://youtu.be/aasgQ-e0t_0
 
 HOW TO RUN THE SOURCE CODE: PAC-MAN GAME
 RUNNING WITH VISUAL STUDIO CODE
